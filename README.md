@@ -1,8 +1,2 @@
-# advent7_custom_paint
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# CustomPaint
+A CustomPaint example where we can draw with different colors and different stroke sizes
